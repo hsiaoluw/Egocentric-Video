@@ -1,4 +1,4 @@
-package Summary;
+package Correction;
 
 /**
  * @author Giulio
