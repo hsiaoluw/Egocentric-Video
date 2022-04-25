@@ -1,4 +1,5 @@
 # Egocentric-Video
+For detail of the implementation please power point Egocentric-Video Summary.
 
 Student Name: Wang, Yi-Wen  Student ID: 9221585532
 
